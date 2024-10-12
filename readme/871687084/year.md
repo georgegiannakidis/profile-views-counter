@@ -1,7 +1,7 @@
 ## [🔙 profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter)
 
-### :octocat: [georgegiannakidis](https://github.com/georgegiannakidis/georgegiannakidis)
-![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/861363464/large/year.png)
+### :octocat: [Tomcat-Takeover-lab](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
+![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/12 5:33 PM UTC</i></small>
+<small><i>Last updated on 2024/10/12 5:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/861363464/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/861363464/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/871687084/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/861363464/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/861363464/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/871687084/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/week.md)
 ```
 ### Header
-# georgegiannakidis [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/861363464/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/861363464/year.md)
+# Tomcat-Takeover-lab [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/year.md)
 ```readme
-# georgegiannakidis [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/861363464/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/861363464/year.md)
+# Tomcat-Takeover-lab [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

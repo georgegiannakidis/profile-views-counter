@@ -1,7 +1,7 @@
 ## [🔙 profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter)
 
-### :octocat: [fgxgm-SecurityCheckSample](https://github.com/georgegiannakidis/fgxgm-SecurityCheckSample)
-![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/780908167/large/year.png)
+### :octocat: [password_generator_python](https://github.com/georgegiannakidis/password_generator_python)
+![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/933316068/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/780908167/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/780908167/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/933316068/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/933316068/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/780908167/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/780908167/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/933316068/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/933316068/week.md)
 ```
 ### Header
-# fgxgm-SecurityCheckSample [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/780908167/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/780908167/year.md)
+# password_generator_python [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/933316068/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/933316068/year.md)
 ```readme
-# fgxgm-SecurityCheckSample [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/780908167/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/780908167/year.md)
+# password_generator_python [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/933316068/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/933316068/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -8,6 +8,7 @@
     "homelab-elastic-siem-kali",
     "AD-Cybersecurity-Simulation-Lab",
     "fgxgm-SecurityCheckSample",
-    "Tomcat-Takeover-lab"
+    "Tomcat-Takeover-lab",
+    "password_generator_python"
   ]
 }

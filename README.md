@@ -69,6 +69,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/georgegiannakidis/profile-views-counter/tree/master/readme/861573831/year.md">
+				AD-Cybersecurity-Simulation-Lab
+			</a>
+		</td>
+		<td>
+			2025/4/23 1:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/georgegiannakidis/profile-views-counter/raw/master/graph/861573831/small/year.png" height="20"> 15
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/georgegiannakidis/profile-views-counter/tree/master/readme/780908167/year.md">
 				fgxgm-SecurityCheckSample
 			</a>
@@ -117,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/25 6:18 AM UTC</i></small>
+<small><i>Last updated on 2025/4/25 12:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

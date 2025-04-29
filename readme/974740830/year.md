@@ -1,7 +1,7 @@
 ## [🔙 profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter)
 
-### :octocat: [Tomcat-Takeover-lab](https://github.com/georgegiannakidis/Tomcat-Takeover-lab)
-![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/large/year.png)
+### :octocat: [aws_cloud_resume_challenge](https://github.com/georgegiannakidis/aws_cloud_resume_challenge)
+![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/974740830/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>37</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>50</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>25</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/29 9:31 AM UTC</i></small>
+<small><i>Last updated on 2025/4/29 9:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/871687084/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/974740830/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/974740830/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/871687084/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/974740830/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/974740830/week.md)
 ```
 ### Header
-# Tomcat-Takeover-lab [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/year.md)
+# aws_cloud_resume_challenge [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/974740830/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/974740830/year.md)
 ```readme
-# Tomcat-Takeover-lab [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/871687084/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/871687084/year.md)
+# aws_cloud_resume_challenge [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/974740830/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/974740830/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

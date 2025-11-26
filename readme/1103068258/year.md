@@ -1,7 +1,7 @@
 ## [🔙 profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter)
 
-### :octocat: [profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter)
-![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/869665486/large/year.png)
+### :octocat: [ioc-automator](https://github.com/georgegiannakidis/ioc-automator)
+![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/1103068258/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/11/26 8:20 AM UTC</i></small>
+<small><i>Last updated on 2025/11/26 8:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/869665486/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/869665486/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/1103068258/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/1103068258/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/869665486/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/869665486/week.md)
+[![Image of profile-views-counter](https://github.com/georgegiannakidis/profile-views-counter/blob/master/svg/1103068258/badge.svg)](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/1103068258/week.md)
 ```
 ### Header
-# profile-views-counter [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/869665486/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/869665486/year.md)
+# ioc-automator [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/1103068258/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/1103068258/year.md)
 ```readme
-# profile-views-counter [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/869665486/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/869665486/year.md)
+# ioc-automator [<img alt="Image of profile-views-counter" src="https://github.com/georgegiannakidis/profile-views-counter/blob/master/graph/1103068258/small/year.png" height="20">](https://github.com/georgegiannakidis/profile-views-counter/blob/master/readme/1103068258/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

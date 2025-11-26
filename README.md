@@ -131,9 +131,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/georgegiannakidis/profile-views-counter/raw/master/graph/974740830/small/year.png" height="20"> 35
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/georgegiannakidis/profile-views-counter/tree/master/readme/1103068258/year.md">
+				ioc-automator
+			</a>
+		</td>
+		<td>
+			2025/11/23 8:21 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/georgegiannakidis/profile-views-counter/raw/master/graph/1103068258/small/year.png" height="20"> 2
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/11/26 8:16 AM UTC</i></small>
+<small><i>Last updated on 2025/11/26 8:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
